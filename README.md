@@ -1,6 +1,6 @@
 # AL'NE Natural Cosmetics – Brand Identity & Visual Assets
 
-Welcome to the AL'NE Natural Cosmetics design repository. This space contains a curated collection of visual assets that reflect the brand’s dedication to purity, elegance, and natural beauty.
+Welcome to the AL'NE Natural Cosmetics design repository. This space serves as a curated collection of visual assets and branding materials that define the essence of AL'NE – a brand rooted in purity, sustainability, and beauty.
 
 ### 📌 Project Overview
 
@@ -16,25 +16,16 @@ This repository hosts quality design materials developed to establish a cohesive
 
 📜 Brochure – Informative and visually appealing marketing material for customer engagement.
 
-### 🛠️ Tools Used
-
-Adobe Illustrator – Vector-based design elements.
-
-Adobe Photoshop – Image enhancement and composition.
-
-Figma – Collaborative design prototyping.
-
-Blender – 3D modeling and rendering.
 
 ### 🔗 Usage Guidelines
 
-All assets within this repository are proprietary to AL'NE Natural Cosmetics. They should be used in alignment with brand guidelines to ensure consistency and authenticity.
+These visual elements are conceptual design materials, created to showcase a possible brand look.
 
-### 📥 How to Access & Use
+How to access and use:
 
-Clone or download the repository.
+- Clone or download the repository.
 
-Open files using the recommended software.
+- Open files using the recommended software.
 
-Follow the provided guidelines for correct implementation.
+- Follow the provided guidelines for correct implementation.
 
