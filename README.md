@@ -3,6 +3,11 @@
 Welcome to the AL'NE Natural Cosmetics design repository. This space serves as a curated collection of visual assets and branding materials that define the essence of AL'NE – a brand rooted in purity, sustainability, and beauty.
 
 
+### Table of Contents
+- Project Overview
+- Included Assets
+- Usage Guidelines
+
 ### 📌 Project Overview
 
 This repository hosts quality design materials developed to establish a cohesive and professional brand identity. Each asset has been carefully crafted to convey the core values of AL'NE Natural Cosmetics—authenticity, sustainability, and sophistication.
