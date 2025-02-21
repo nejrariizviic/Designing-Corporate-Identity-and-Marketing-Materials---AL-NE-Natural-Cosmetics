@@ -11,13 +11,13 @@ This repository hosts quality design materials developed to establish a cohesive
 
 ### 🎨 Included Assets
 
- Logo – The primary brand mark, designed for versatility across various mediums.
+- Logo – The primary brand mark, designed for versatility across various mediums.
 
-Business Card – A sleek, professional card layout for brand representation.
+- Business Card – A sleek, professional card layout for brand representation.
 
-3D Bottle Model – A realistic product visualization for packaging and marketing purposes.
+- 3D Bottle Model – A realistic product visualization for packaging and marketing purposes.
 
-Brochure – Informative and visually appealing marketing material for customer engagement.
+- Brochure – Informative and visually appealing marketing material for customer engagement.
 
 
 
