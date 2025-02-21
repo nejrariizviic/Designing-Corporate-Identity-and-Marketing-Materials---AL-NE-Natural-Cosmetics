@@ -1,4 +1,4 @@
-AL'NE Natural Cosmetics – Brand Identity & Visual Assets
+# AL'NE Natural Cosmetics – Brand Identity & Visual Assets
 
 Welcome to the AL'NE Natural Cosmetics design repository. This space contains a curated collection of visual assets that reflect the brand’s dedication to purity, elegance, and natural beauty.
 
