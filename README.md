@@ -9,7 +9,7 @@ This repository is a collection of design materials and assets created as part o
 
 ### 📌 Project Overview
 
-Within this repository, you can find design ideas and materials that reflect the core values of AL'NE Natural Cosmetics – authenticity, sustainability, and sophistication. These materials are still in the conceptual phase and were created to represent the brand’s vision across various formats. Although they are not finalized, you can see how these designs might look in real-life settings, as shown in the mockups (located in the folder) and 3D model.
+Within repository, you can find design ideas and materials that reflect the core values of AL'NE Natural Cosmetics – authenticity, sustainability, and sophistication. These materials are still in the conceptual phase and were created to represent the brand’s vision across various formats. Although they are not finalized, you can see how these designs might look in real-life settings, as shown in the mockups (located in the folder) and 3D model.
 
 
 
