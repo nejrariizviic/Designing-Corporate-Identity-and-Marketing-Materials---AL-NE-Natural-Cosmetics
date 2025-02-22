@@ -34,7 +34,7 @@ How to access and use:
 
 - Clone or download the repository.
 
-- Open files using the recommended software.
+- Open files using the recommended software (Adobe Photoshop, Inkscape, etc.).
 
 - Follow the provided guidelines for correct implementation.
 
