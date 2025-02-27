@@ -47,10 +47,10 @@ These visual elements are conceptual design materials, created to showcase a pos
 - Follow the provided guidelines for correct implementation.
 
  2. 3D Models:
-- Download the files from the 3D_Model folder.
+- Download the files from the 3D model folder.
 - There are two versions of the models:
-   - Bottle models – Examples of cosmetic packaging design.
-   - Makeup scene – A makeup room setup featuring the 3D product models.
+   - Bottle models – examples of cosmetic packaging design.
+   - Makeup scene – a makeup room setup featuring the 3D product models.
 - Save the files to your desktop.
 - Import the models into SketchUp or another compatible 3D software to explore the design details and layout in a realistic setting.
 
