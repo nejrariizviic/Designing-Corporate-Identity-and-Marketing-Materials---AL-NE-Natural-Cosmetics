@@ -2,18 +2,18 @@
 
 This repository is a collection of design materials and assets created as part of the AL'NE project, aimed at establishing a cohesive brand identity. The goal of this project is to visually communicate the core values of AL'NE – purity, sustainability, and beauty – through thoughtfully designed branding elements.
 
-### Table of Contents  
+## Table of Contents  
 - [Project Overview](#-project-overview)  
 - [Included Assets](#-included-assets)  
 - [Usage Guidelines](#-usage-guidelines) 
 
-### 📌 Project Overview
+## Project Overview
 
 Within repository, you can find design ideas and materials that reflect the core values of AL'NE Natural Cosmetics – authenticity, sustainability, and sophistication. These materials are still in the conceptual phase and were created to represent the brand’s vision across various formats. Although they are not finalized, you can see how these designs might look in real-life settings, as shown in the mockups (located in the folder) and 3D model.
 
 
 
-### 🎨 Included Assets
+## Included Assets
 
 - Logo – The primary brand mark, designed for versatility across various mediums.
 
@@ -26,7 +26,7 @@ Within repository, you can find design ideas and materials that reflect the core
 
 
 
-### 🔗 Usage Guidelines
+## Usage Guidelines
 
 These visual elements are conceptual design materials, created to showcase a possible brand look.
 
