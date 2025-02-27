@@ -37,9 +37,7 @@ Within repository, you can find design ideas and materials that reflect the core
 The following tools and software were used to create and edit the design materials for this project:
 
 - Inkscape – Used for designing the brochure, business card, logo, and stamp, ensuring high-quality vector graphics.
- 
 - Freepik (Online Mockup Generator) – Used to create realistic mockups, allowing brand elements to be visualized on various products like packaging, clothing, and promotional materials.
-  
 - SketchUp – Utilized for 3D modeling, including cosmetic bottle designs and an interior makeup studio scene.
 - Adobe Photoshop – Used for basic file adjustments and previews, ensuring compatibility across different platforms.
   
@@ -53,14 +51,21 @@ These visual elements are conceptual design materials, created to showcase a pos
  1. How to access and use the design materials:
 
 - Clone or download the repository.
+  
 - Open files using the recommended software (Adobe Photoshop, Inkscape, etc.).
+  
 - Follow the provided guidelines for correct implementation.
 
  2. 3D models:
 - Download the files from the 3D model folder.
+  
 - There are two versions of the models:
+  
    - Bottle models – examples of cosmetic packaging design.
+     
    - Makeup scene – a makeup room setup featuring the 3D product models.
+     
 - Save the files to your desktop.
+  
 - Import the models into SketchUp or another compatible 3D software to explore the design details and layout in a realistic setting.
 
