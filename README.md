@@ -40,13 +40,13 @@ Within repository, you can find design ideas and materials that reflect the core
 
 These visual elements are conceptual design materials, created to showcase a possible brand look.
 
- 1. How to access and use:
+ 1. How to access and use the design materials:
 
 - Clone or download the repository.
 - Open files using the recommended software (Adobe Photoshop, Inkscape, etc.).
 - Follow the provided guidelines for correct implementation.
 
- 2. 3D Models:
+ 2. 3D models:
 - Download the files from the 3D model folder.
 - There are two versions of the models:
    - Bottle models – examples of cosmetic packaging design.
