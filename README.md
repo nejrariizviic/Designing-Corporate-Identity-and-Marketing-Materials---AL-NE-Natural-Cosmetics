@@ -51,7 +51,7 @@ Each tool contributed to building a strong and cohesive visual identity for AL'N
 
 These visual elements are conceptual design materials, created to showcase a possible brand look.
 
- 1. How to access and use the design materials:
+ ✅ How to access and use the design materials:
 
 - Clone or download the repository.
   
@@ -59,7 +59,7 @@ These visual elements are conceptual design materials, created to showcase a pos
   
 - Follow the provided guidelines for correct implementation.
 
- 2. 3D models:
+✅ How to Open and View 3D Models
 - Download the files from the 3D model folder.
   
 - There are two versions of the models:
