@@ -15,6 +15,7 @@ This repository is a collection of design materials and assets created as part o
 ## Table of Contents  
 - [Project Overview](#-project-overview)  
 - [Included Assets](#-included-assets)  
+- [Tools used](#-tools-used)
 - [Usage Guidelines](#-usage-guidelines) 
 
 ## Project Overview
