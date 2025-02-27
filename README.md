@@ -4,8 +4,7 @@ This repository is a collection of design materials and assets created as part o
 
 
 ## Logo 
-![Logo](https://raw.githubusercontent.com/nejrariizviic/Designing-Corporate-Identity-and-Marketing-Materials---AL-NE-Natural-Cosmetics/refs/heads/main/Assets/Logo.png)
-
+![Logo](https://raw.githubusercontent.com/nejrariizviic/Designing-Corporate-Identity-and-Marketing-Materials---AL-NE-Natural-Cosmetics/refs/heads/main/Assets/logordm.png)
 
 ## Mockups
 ![Mockups](https://raw.githubusercontent.com/nejrariizviic/Designing-Corporate-Identity-and-Marketing-Materials---AL-NE-Natural-Cosmetics/refs/heads/main/Assets/mockupss.png)
