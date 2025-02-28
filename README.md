@@ -26,24 +26,24 @@ Within repository, you can find design ideas and materials that reflect the core
 
 ## Included Assets
 
-- Logo – The primary brand mark, designed for versatility across various mediums.
+- Logo – the primary brand mark, designed for versatility across various mediums.
 
-- Business Card – A sleek, professional card layout for brand representation.
+- Business Card – a sleek, professional card layout for brand representation.
 
-- 3D Bottle Model – A realistic product visualization for packaging and marketing purposes.
+- 3D Bottle Model – a realistic product visualization for packaging and marketing purposes.
 
-- Brochure – Informative and visually appealing marketing material for customer engagement.
+- Brochure – informative and visually appealing marketing material for customer engagement.
 
 ## Tools Used
 The following tools and software were used to create and edit the design materials for this project:
 
-- Inkscape – Used for designing the brochure, business card, logo, and stamp, ensuring high-quality vector graphics.
+- Inkscape – used for designing the brochure, business card, logo, and stamp, ensuring high-quality vector graphics.
   
-- Freepik (Online Mockup Generator) – Used to create realistic mockups, allowing brand elements to be visualized on various products like packaging, clothing, and promotional materials.
+- Freepik (Online Mockup Generator) – used to create realistic mockups, allowing brand elements to be visualized on various products like packaging, clothing, and promotional materials.
   
-- SketchUp – Utilized for 3D modeling, including cosmetic bottle designs and an interior makeup studio scene.
+- SketchUp – utilized for 3D modeling, including cosmetic bottle designs and an interior makeup studio scene.
   
-- Adobe Photoshop – Used for basic file adjustments and previews, ensuring compatibility across different platforms.
+- Adobe Photoshop – used for basic file adjustments and previews, ensuring compatibility across different platforms.
   
 Each tool contributed to building a strong and cohesive visual identity for AL'NE Natural Cosmetics.
 
