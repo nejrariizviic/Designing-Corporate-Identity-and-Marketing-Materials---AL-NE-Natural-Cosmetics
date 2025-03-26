@@ -2,7 +2,6 @@
 
 This repository is a collection of design materials and assets created as part of the AL'NE project, aimed at establishing a cohesive brand identity. The goal of this project is to visually communicate the core values of AL'NE – purity, sustainability, and beauty – through thoughtfully designed branding elements.
 
-
 ## Logo 
 ![Logo](https://raw.githubusercontent.com/nejrariizviic/Designing-Corporate-Identity-and-Marketing-Materials---AL-NE-Natural-Cosmetics/refs/heads/main/Assets/logordm.png)
 
