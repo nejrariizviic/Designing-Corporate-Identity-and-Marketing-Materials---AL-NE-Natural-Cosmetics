@@ -31,7 +31,6 @@ Within repository, you can find design ideas and materials that reflect the core
 
 - 3D Bottle Model – a realistic product visualization for packaging and marketing purposes.
 
-- Brochure – informative and visually appealing marketing material for customer engagement.
 
 ## Tools Used
 The following tools and software were used to create and edit the design materials for this project:
